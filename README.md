@@ -13,10 +13,6 @@ This project was part of research during my visit as a research scientist at NOA
   - ECMWF Reanalysis (0.125°)
   - Meteo France WAM model (0.083°)
 
-# Comparing Maritime Forecast Techniques using Multi-Model Approach
-
-This project evaluates different configurations of the WAVEWATCH III (WW3) spectral wave model using varied wind forcing inputs for maritime forecasting around Indonesia.
-
 ## Methodology
 
 ### Model Domain and Grids
